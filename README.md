@@ -30,7 +30,7 @@ Sempre em busca de novos desafios, gosto de aplicar tecnologia para resolver pro
 Sistema completo para gerenciamento de pedidos e entregas, com painéis e funcionalidades voltadas para clientes, restaurantes e entregadores.  
 Deploy realizado na AWS com ambiente funcional:
 
-🖥️ Acesse o projeto ao vivo Web: [http://54.234.134.209:8080/](http://54.234.134.209:8080/)
+🖥️ Acesse o projeto ao vivo Web: [Portifolio Web](http://54.234.134.209:8080/)
 
 🖥️ Acesse o projeto ao vivo Java : [http://98.84.99.92:8080/swagger-ui/index.html#/](http://98.84.99.92:8080/swagger-ui/index.html#/)
 
