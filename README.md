@@ -30,9 +30,9 @@ Sempre em busca de novos desafios, gosto de aplicar tecnologia para resolver pro
 Sistema completo para gerenciamento de pedidos e entregas, com painéis e funcionalidades voltadas para clientes, restaurantes e entregadores.  
 Deploy realizado na AWS com ambiente funcional:
 
-🖥️ Acesse o projeto ao vivo Web: [Portifolio Web](http://54.234.134.209:8080/)
+🖥️ Acesse o Codigo do projeto Web : [Portifolio Web](https://github.com/FernandoDev0/persistent-dev-portfolio)
 
-🖥️ Acesse o projeto ao vivo Java : [Swagger de Api Java](http://98.84.99.92:8080/swagger-ui/index.html#/)
+🖥️ Acesse o Codigo do projeto Java : [Swagger de Api Java](https://github.com/FernandoDev0/delivery-tech)
 
 
 **Tecnologias usadas:**
