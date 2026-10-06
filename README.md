@@ -112,6 +112,40 @@ Sistema que trata um PDF e narra a prosa e os títulos em voz, para ouvir como a
 
 ---
 
+## ✏️ Esboço de ideias
+
+### Custo de vida para entrevistas
+
+Mostra a renda, os custos do mês e o que sobra para gastar. Vale-alimentação e vale-refeição entram na renda, e o relatório abre o comprometimento por categoria.
+
+[GitHub](https://github.com/FernandoDev0/CustoDeVidaParaEntrevistas) · [Página](https://fernandodev0.github.io/CustoDeVidaParaEntrevistas/)
+
+### A Tabela — 10 mil ou 20 mil
+
+Tabela em sequência para guardar dinheiro: a bolinha 1 vale R$ 1, a 2 vale R$ 2, e segue. Uma meta fecha em cerca de R$ 10 mil e a outra em cerca de R$ 20 mil. As marcas ficam neste navegador.
+
+[GitHub](https://github.com/FernandoDev0/tabeladoHTML10ke20K) · [Página](https://fernandodev0.github.io/tabeladoHTML10ke20K/)
+
+### Doze meses de liberdade
+
+Você nomeia uma conta, coloca o valor de um mês e guarda até cobrir doze. Luz, comida, celular ou a parcela de uma casa. Cada reserva tem o próprio ano, e os dados ficam neste navegador.
+
+[GitHub](https://github.com/FernandoDev0/12MesesDeLiberdade) · [Página](https://fernandodev0.github.io/12MesesDeLiberdade/)
+
+### Construção de patrimônio
+
+Simula o patrimônio a partir do salário líquido, da parte investida, da renda fixa ao ano e do que já está acumulado. Mostra o aporte, os juros no caminho e quando o rendimento cobre o salário.
+
+[GitHub](https://github.com/FernandoDev0/contrucaoDePatrimonio) · [Página](https://fernandodev0.github.io/contrucaoDePatrimonio/)
+
+### Como pagar a casa
+
+Compara Price e SAC com FGTS, PIS, 13º e o dinheiro guardado no mês. Dá para encurtar o prazo ou aliviar a parcela, com o salário de uma ou duas pessoas.
+
+[GitHub](https://github.com/FernandoDev0/pagarCasa) · [Página](https://fernandodev0.github.io/pagarCasa/)
+
+---
+
 ## 🧰 Minhas stacks
 
 ```yaml
