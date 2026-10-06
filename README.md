@@ -97,6 +97,22 @@ Programa para Windows que manda o som de cada aplicativo para a caixa ou para o 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
+### 📖 [Biblioteca Áudio Play](https://github.com/FernandoDev0/biblioteca_Audio_play)
+
+Sistema que trata um PDF e narra a prosa e os títulos em voz, para ouvir como audiolivro. Código, números e figuras ficam na tela. A palavra da vez acende enquanto o áudio toca.
+
+**Tecnologias usadas:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyMuPDF-CA1A27?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Edge_TTS-0078D4?style=for-the-badge&logo=microsoftedge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VLC-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Opus-4A4A4A?style=for-the-badge"/>
+</p>
+
 ---
 
 ## 🧰 Minhas stacks
