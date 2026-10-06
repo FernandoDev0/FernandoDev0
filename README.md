@@ -47,7 +47,7 @@ Início em 2024 · Cursando
 
 ---
 
-## 📦 Projeto em destaque
+## 📦 Projetos recentes
 
 ### 🔗 [Delivery-Tech](https://github.com/FernandoDev0/delivery-tech)
 
@@ -68,6 +68,14 @@ Sistema para gerenciamento de pedidos e entregas, com painéis para clientes, re
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+### 🎚️ [União de Som](https://github.com/FernandoDev0/UniaodeSom)
+
+Aplicativo para Windows que captura o áudio de uma saída e reproduz o mesmo som, ao mesmo tempo, em outras saídas (caixa, fone, HDMI). Cada destino tem volume, mudo e atraso. Feito em C# / .NET com NAudio e WASAPI.
+
+### 🎧 [AudioDuplo](https://github.com/FernandoDev0/audioDuplo)
+
+Programa para Windows que manda o som de cada aplicativo para a caixa ou para o fone. Dois programas tocam juntos, cada um na saída escolhida. Feito em C# / .NET com NAudio.
+
 ---
 
 ## 🧰 Minhas stacks
@@ -82,15 +90,3 @@ CI/CD:           Git, GitHub, GitHub Actions
 DevOps:          Docker, AWS EC2
 Banco de dados:  PostgreSQL, MySQL
 ```
-
----
-
-## 🔊 Projetos recentes
-
-### 🎚️ [União de Som](https://github.com/FernandoDev0/UniaodeSom)
-
-Aplicativo para Windows que captura o áudio de uma saída e reproduz o mesmo som, ao mesmo tempo, em outras saídas (caixa, fone, HDMI). Cada destino tem volume, mudo e atraso. Feito em C# / .NET com NAudio e WASAPI.
-
-### 🎧 [AudioDuplo](https://github.com/FernandoDev0/audioDuplo)
-
-Programa para Windows que manda o som de cada aplicativo para a caixa ou para o fone. Dois programas tocam juntos, cada um na saída escolhida. Feito em C# / .NET com NAudio.
