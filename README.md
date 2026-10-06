@@ -53,9 +53,6 @@ Início em 2024 · Cursando
 
 Sistema para gerenciamento de pedidos e entregas, com painéis para clientes, restaurantes e entregadores. Deploy realizado na AWS.
 
-- Código do projeto web: [Portfólio](https://github.com/FernandoDev0/persistent-dev-portfolio)
-- Código do projeto Java: [Delivery-Tech](https://github.com/FernandoDev0/delivery-tech)
-
 **Tecnologias usadas:**
 
 <p align="left">
