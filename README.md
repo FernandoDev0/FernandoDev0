@@ -70,11 +70,32 @@ Sistema para gerenciamento de pedidos e entregas, com painéis para clientes, re
 
 ### 🎚️ [União de Som](https://github.com/FernandoDev0/UniaodeSom)
 
-Aplicativo para Windows que captura o áudio de uma saída e reproduz o mesmo som, ao mesmo tempo, em outras saídas (caixa, fone, HDMI). Cada destino tem volume, mudo e atraso. Feito em C# / .NET com NAudio e WASAPI.
+Aplicativo para Windows que captura o áudio de uma saída e reproduz o mesmo som, ao mesmo tempo, em outras saídas (caixa, fone, HDMI). Cada destino tem volume, mudo e atraso.
+
+**Tecnologias usadas:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NAudio-1B1F23?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WASAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
 ### 🎧 [AudioDuplo](https://github.com/FernandoDev0/audioDuplo)
 
-Programa para Windows que manda o som de cada aplicativo para a caixa ou para o fone. Dois programas tocam juntos, cada um na saída escolhida. Feito em C# / .NET com NAudio.
+Programa para Windows que manda o som de cada aplicativo para a caixa ou para o fone. Dois programas tocam juntos, cada um na saída escolhida.
+
+**Tecnologias usadas:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NAudio-1B1F23?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
 ---
 
