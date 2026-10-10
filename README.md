@@ -146,6 +146,16 @@ Compara Price e SAC com FGTS, PIS, 13º e o dinheiro guardado no mês. Dá para 
 
 ---
 
+## 📜 Biblioteca de Certificados
+
+Repositório com minha coleção de certificados, cursos e aprendizados adquiridos ao longo da minha jornada de estudos e desenvolvimento profissional.
+
+Acesse a página:
+
+🔗 [Biblioteca de Certificados](https://fernandodev0.github.io/BibliotecaDeCertificadoDoFernando/)
+
+---
+
 ## 🧰 Minhas stacks
 
 ```yaml
