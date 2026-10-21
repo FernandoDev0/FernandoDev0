@@ -49,6 +49,16 @@ Início em 2024 · Cursando
 
 ## 📦 Projetos recentes
 
+### 🔗 [Host de projetos](https://fernandodev0.github.io/host-projetos-frontend/)
+
+Hub para a pessoa acessar os projetos de front-end.
+
+**Tecnologias usadas:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
 ### 🔗 [Delivery-Tech](https://github.com/FernandoDev0/delivery-tech)
 
 Sistema para gerenciamento de pedidos e entregas, com painéis para clientes, restaurantes e entregadores. Deploy realizado na AWS.
