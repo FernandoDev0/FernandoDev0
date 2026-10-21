@@ -51,7 +51,7 @@ Início em 2024 · Cursando
 
 ### 🔗 [Host de projetos](https://fernandodev0.github.io/host-projetos-frontend/)
 
-Hub para a pessoa acessar os projetos de front-end.
+Hub projetos de front-end de Paginas de vendas.
 
 **Tecnologias usadas:**
 
