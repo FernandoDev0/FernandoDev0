@@ -49,6 +49,22 @@ Início em 2024 · Cursando
 
 ## 📦 Projetos recentes
 
+### 📄 [Currículo inteligente](https://github.com/FernandoDev0/curriculo-inteligente)
+
+Sistema de criação de currículos com IA.
+
+**Tecnologias usadas:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+</p>
+
 ### 🔗 [Host de projetos](https://fernandodev0.github.io/host-projetos-frontend/)
 
 Hub projetos de front-end de Paginas de vendas.
